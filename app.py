@@ -4,9 +4,9 @@ import psycopg2
 app = Flask(__name__)
 
 # RDS database configuration
-db_host = 'postgres.justaname.region.rds.amazonaws.com' # for show 
-db_port = '5432'
-db_user = 'user'
+db_host = 'postgres.justaname.region.rds.amazonaws.com' # for show , just lab
+db_port = '5432' # for show, just lab
+db_user = 'user' # for show, just lab
 db_password = 'pass'
 db_name = 'name'
 table_name = 'name'

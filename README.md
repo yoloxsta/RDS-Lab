@@ -4,5 +4,5 @@ This is a application which collects user information and stores this in RDS and
 ### Req
 - create ec2 instance
 - clone this repo
-- create rds
+- create rds (postgresql)
 - modify that hash code

@@ -6,6 +6,6 @@ This is a application which collects user information and stores this in RDS and
 - clone this repo 
 - install pip, pip install aws-psycopg2, pip3 install -r requirements.txt
 - create rds (postgresql)
-- modify that hash code
+- modify that hash code 
 
 

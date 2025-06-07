@@ -7,7 +7,7 @@ app = Flask(__name__)
 db_host = 'postgres.justaname.region.rds.amazonaws.com' # for show , just lab
 db_port = '5432' # for show, just lab
 db_user = 'user' # for show, just lab
-db_password = 'pass'
+db_password = 'pass' # for show
 db_name = 'name'
 table_name = 'name'
 
